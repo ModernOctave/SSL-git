@@ -1,9 +1,11 @@
-Images
-(from unsplash)
+# External Credits
+## Images
+(from unsplash.com)
+
 - Annie Spratt
 - Brooke Cagle
 - Eric Rothermel
 - Nadeena Granville
 
-Icons
+## Icons
 - Bootstrap Icons
